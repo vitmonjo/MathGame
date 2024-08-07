@@ -12,3 +12,4 @@ C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\refint\
 C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.pdb
 C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
 C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\ref\MathGame.dll
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.sourcelink.json
