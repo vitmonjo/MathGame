@@ -1,0 +1,14 @@
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\bin\Debug\net8.0\MathGame.exe
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\bin\Debug\net8.0\MathGame.deps.json
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\bin\Debug\net8.0\MathGame.runtimeconfig.json
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\bin\Debug\net8.0\MathGame.dll
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\bin\Debug\net8.0\MathGame.pdb
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfo.cs
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.dll
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\refint\MathGame.dll
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.pdb
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
+C:\Users\joaov\Desktop\CsharpProjects\MathGame\MathGame\obj\Debug\net8.0\ref\MathGame.dll
